@@ -1,0 +1,5 @@
+# only the script and docs are published
+*
+!.gitignore
+!README.md
+!monitor.sh
